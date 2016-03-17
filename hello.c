@@ -7,5 +7,6 @@ int main (void)
 	printf("nihao!\n");
 	printf("12314235\n");
 	printf("fffffffff\n");
+    printf("dfsggsagdas\n");
 	return 0;	
 }
